@@ -1,5 +1,3 @@
-Role of Policy Makers in Promoting AI Literacy
-==============================================================================================
 
 As artificial intelligence (AI) becomes increasingly integrated into our society, policy makers play a critical role in ensuring that the public is informed and equipped to interact with these technologies. In this chapter, we explore the importance of promoting AI literacy and the role of policy makers in doing so.
 

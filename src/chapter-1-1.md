@@ -1,5 +1,3 @@
-Definition of Artificial Intelligence
-==============================================================
 
 Artificial intelligence (AI) is a rapidly growing field of technology that aims to create machines and systems that can perform tasks that would typically require human intelligence. In this chapter, we will explore the definition of AI and its various subfields.
 

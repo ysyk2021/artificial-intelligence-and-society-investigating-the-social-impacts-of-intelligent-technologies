@@ -1,5 +1,3 @@
-Understanding Bias in AI Systems
-==================================================================
 
 Artificial intelligence (AI) systems are only as unbiased as the data they are trained on. As such, AI systems can inherit biases from the data used to train them, which can result in unfair and discriminatory outcomes for certain individuals or groups.
 

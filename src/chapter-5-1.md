@@ -1,5 +1,3 @@
-Smart Cities and Transportation
-====================================================================================
 
 Artificial intelligence (AI) technologies are being increasingly used in society to improve urban planning and transportation systems. In this chapter, we will examine the applications of AI in smart cities and transportation, their benefits, and potential societal impacts.
 

@@ -1,5 +1,3 @@
-Disaster Response and Management
-=====================================================================================
 
 Artificial intelligence (AI) technologies are increasingly being used in disaster response and management, helping to improve the effectiveness and efficiency of emergency services. In this chapter, we will examine the applications of AI in disaster response and management, its benefits, and potential societal impacts.
 

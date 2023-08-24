@@ -1,5 +1,3 @@
-Exploring Human-Robot Interaction
-===================================================================
 
 As artificial intelligence (AI) technologies continue to advance, robots are becoming increasingly sophisticated and capable of interacting with humans in a variety of ways. This chapter will explore the impact of human-robot interaction on human behavior and the potential benefits and challenges of this relationship.
 

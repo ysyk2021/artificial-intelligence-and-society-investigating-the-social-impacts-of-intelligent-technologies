@@ -1,5 +1,3 @@
-Examining Surveillance and Security Issues
-=====================================================================
 
 The widespread use of Artificial Intelligence (AI) has raised significant concerns about privacy, surveillance, and security. In this chapter, we examine the ways in which AI technologies can impact privacy and security, and the challenges that arise from increased surveillance in our society.
 

@@ -1,5 +1,3 @@
-Chapter 3: AI and Human Behavior
-================================
 
 Artificial intelligence (AI) technologies are becoming increasingly integrated into our daily lives, impacting human behavior in a variety of ways. In this chapter, we will explore some of the key ways in which AI is affecting human behavior, including bias in AI systems, ethical concerns, and human-robot interaction.
 

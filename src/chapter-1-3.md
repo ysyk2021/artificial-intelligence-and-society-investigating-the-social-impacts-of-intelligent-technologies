@@ -1,5 +1,3 @@
-Objectives of the Book
-===============================================
 
 Artificial intelligence (AI) is rapidly transforming many aspects of modern society, from healthcare and education to employment and the economy. As these technologies continue to evolve, it is increasingly important to investigate their social impacts and understand how they are shaping human behavior.
 

@@ -1,5 +1,3 @@
-Brief History of AI and Society
-========================================================
 
 Artificial intelligence (AI) has a long and fascinating history, with roots stretching back to ancient times. In this chapter, we will explore the history of AI and its impact on society over the centuries.
 

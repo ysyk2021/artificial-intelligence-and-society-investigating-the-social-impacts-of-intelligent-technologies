@@ -1,5 +1,3 @@
-Reshaping Education
-===========================================================
 
 Artificial intelligence (AI) has the potential to transform many aspects of society, including the field of education. In this chapter, we will explore how AI is reshaping education and the potential benefits and challenges of this transformation.
 

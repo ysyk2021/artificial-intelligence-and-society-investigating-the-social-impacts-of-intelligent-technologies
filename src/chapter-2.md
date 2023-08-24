@@ -1,5 +1,3 @@
-Chapter 2: The Impact of AI on Society
-======================================
 
 Artificial intelligence (AI) technologies are already having a significant impact on society, transforming the way we work, access healthcare, and learn. In this chapter, we will explore some of the key ways in which AI is impacting society, including its changing nature of work, transforming healthcare, and reshaping education.
 

@@ -1,5 +1,3 @@
-AI-Based Predictive Policing
-=================================================================================
 
 Artificial intelligence (AI) technologies are increasingly being used in law enforcement, particularly in the area of predictive policing. In this chapter, we will examine the applications of AI in predictive policing, its benefits, and potential societal impacts.
 

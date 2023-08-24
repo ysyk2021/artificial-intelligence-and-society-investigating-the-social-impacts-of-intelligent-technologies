@@ -1,5 +1,3 @@
-Understanding Data Protection in the Age of AI
-=========================================================================
 
 As artificial intelligence (AI) technologies continue to advance, concerns over data privacy and protection have become increasingly prominent. In this chapter, we will explore the impact of AI on privacy and the steps needed to protect personal data.
 

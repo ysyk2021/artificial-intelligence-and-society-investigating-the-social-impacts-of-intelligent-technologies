@@ -1,5 +1,3 @@
-Collaboration between Industry and Academia
-===========================================================================================
 
 Artificial Intelligence (AI) is rapidly transforming our society and creating new opportunities across many different sectors. As the potential for AI continues to grow, there is an increasing need for collaboration between industry and academia to ensure the responsible development and deployment of these technologies.
 

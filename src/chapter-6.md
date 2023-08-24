@@ -1,5 +1,3 @@
-Chapter 6: Future Directions and Opportunities
-==============================================
 
 As artificial intelligence (AI) technologies continue to evolve, new opportunities are emerging for their application in society. In this chapter, we will explore some of the emerging trends in AI and society, the role of policy makers in promoting AI literacy, and the importance of collaboration between industry and academia.
 

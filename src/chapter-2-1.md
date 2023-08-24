@@ -1,5 +1,3 @@
-Changing Nature of Work
-===============================================================
 
 Artificial intelligence (AI) is transforming the way we work, with implications for employment, education, and the economy as a whole. In this chapter, we will explore how AI is changing the nature of work and the potential benefits and challenges of this transformation.
 

@@ -1,4 +1,3 @@
-# Conclusion
 
 As we have explored throughout this book, artificial intelligence (AI) technologies have the potential to transform society in profound ways. However, they also bring new challenges and concerns that must be addressed to ensure that AI is being used ethically and responsibly.
 

@@ -1,5 +1,3 @@
-Emerging Trends in AI and Society
-=================================================================================
 
 Artificial intelligence (AI) technologies are rapidly advancing, opening up new possibilities for their use in society. In this chapter, we will examine some of the emerging trends in AI and society, their potential benefits, and concerns around their impact.
 

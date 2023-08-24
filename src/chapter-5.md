@@ -1,5 +1,3 @@
-Chapter 5: Real-world Applications of AI in Society
-===================================================
 
 Artificial intelligence (AI) has a growing number of real-world applications that are already making significant impacts on societies across the globe. In this chapter, we will explore some of the most promising applications of AI, including smart cities and transportation, AI-based predictive policing, and disaster response and management.
 
