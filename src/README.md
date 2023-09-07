@@ -10,3 +10,7 @@ This book will investigate the social impacts of AI on human behavior in a varie
 As AI becomes increasingly pervasive in our daily lives, it's important to investigate its social impacts on human behavior. By exploring the ways in which AI is changing the nature of work, influencing societal values and norms, and raising ethical considerations, we can better understand how to harness its potential benefits while mitigating its potential risks. This book aims to provide a comprehensive overview of the social implications of AI and its effects on society as a whole.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
