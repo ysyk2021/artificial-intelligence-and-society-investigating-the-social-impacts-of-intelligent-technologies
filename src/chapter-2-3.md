@@ -1,5 +1,4 @@
-Chapter: Reshaping Education
-============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of artificial intelligence (AI) and intelligent technologies is reshaping the landscape of education. From personalized learning experiences to automated administrative tasks, AI is revolutionizing how we teach and learn. In this chapter, we explore the social impacts of intelligent technologies on education and the opportunities and challenges they present.
 

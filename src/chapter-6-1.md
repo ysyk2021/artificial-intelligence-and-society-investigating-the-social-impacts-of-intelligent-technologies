@@ -1,5 +1,4 @@
-Chapter 8: Emerging Trends in AI and Society
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the emerging trends in artificial intelligence (AI) and their impact on society. These trends shape the landscape of AI technologies and have significant implications for human behavior. We will examine the advancements in various domains, their potential benefits, and the challenges they pose.
 

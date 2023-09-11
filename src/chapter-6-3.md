@@ -1,5 +1,4 @@
-Chapter 7: Collaboration Between Industry and Academia
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Collaboration between industry and academia is crucial for the advancement of artificial intelligence (AI) technologies and understanding their social impacts on human behavior. In this chapter, we will explore the importance of collaboration, the benefits it brings, and the challenges that need to be overcome.
 

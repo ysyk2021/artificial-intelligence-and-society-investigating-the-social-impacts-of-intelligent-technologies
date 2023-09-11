@@ -1,5 +1,4 @@
-Chapter 8: Smart Cities and Transportation
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In recent years, the concept of smart cities has gained significant attention as a means to leverage technology for sustainable urban development. This chapter explores the intersection of artificial intelligence (AI) and intelligent technologies with urban transportation systems, highlighting their potential social impacts on human behavior.
 

@@ -1,5 +1,4 @@
-Chapter 8: Transforming Healthcare
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of artificial intelligence (AI) and intelligent technologies into healthcare systems has the potential to revolutionize patient care, diagnosis, treatment, and overall healthcare delivery. This chapter explores the transformative impact of AI on healthcare and investigates its social implications on human behavior.
 

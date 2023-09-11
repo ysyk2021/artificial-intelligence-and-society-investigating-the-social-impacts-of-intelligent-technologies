@@ -1,5 +1,4 @@
-Chapter: Disaster Response and Management
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Intelligent technologies, particularly artificial intelligence (AI), have the potential to revolutionize disaster response and management. From early warning systems to resource allocation and decision-making support, AI can enhance the effectiveness and efficiency of disaster management processes. In this chapter, we explore the social impacts of intelligent technologies on disaster response and management, highlighting their benefits and considerations.
 

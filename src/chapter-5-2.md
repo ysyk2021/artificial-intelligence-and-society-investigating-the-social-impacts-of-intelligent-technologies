@@ -1,5 +1,4 @@
-Chapter: AI-Based Predictive Policing
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 AI-based predictive policing is a controversial application of intelligent technologies that aims to enhance law enforcement efforts through data analysis and predictive analytics. This chapter explores the social impacts of AI-based predictive policing, examining its benefits, concerns, and ethical considerations.
 

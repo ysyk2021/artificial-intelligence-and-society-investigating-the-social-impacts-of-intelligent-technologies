@@ -1,5 +1,4 @@
-Chapter 8: Changing Nature of Work
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the changing nature of work in the context of artificial intelligence (AI) and intelligent technologies. We will examine how AI is reshaping various aspects of work, including job roles, skills requirements, and the overall work environment. The chapter will discuss both the potential benefits and challenges associated with these changes.
 

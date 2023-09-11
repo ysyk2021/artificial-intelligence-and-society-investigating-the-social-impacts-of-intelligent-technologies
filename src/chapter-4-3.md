@@ -1,5 +1,4 @@
-Chapter: Examining Surveillance and Security Issues
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Surveillance and security issues are at the forefront of discussions surrounding the social impacts of intelligent technologies. As artificial intelligence (AI) continues to advance, questions arise regarding the balance between privacy and security, the ethical implications of mass surveillance, and the potential risks associated with the use of AI in surveillance systems. In this chapter, we delve into the key concerns and considerations surrounding surveillance and security in the context of intelligent technologies.
 

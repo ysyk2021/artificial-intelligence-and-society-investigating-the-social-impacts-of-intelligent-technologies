@@ -1,5 +1,4 @@
-Chapter: Addressing Ethical Concerns
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Ethical considerations are paramount when examining the social impacts of artificial intelligence (AI) on human behavior. This chapter delves into the ethical concerns surrounding AI technologies and explores strategies for addressing these challenges.
 

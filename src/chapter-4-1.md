@@ -1,5 +1,4 @@
-Chapter 14: Global Trends in Transportation Planning and Design
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Transportation planning and design are evolving rapidly to address the challenges of urbanization, population growth, and sustainability. In this chapter, we will explore global trends in transportation planning and design, with a focus on the integration of intelligent technologies and the role of artificial intelligence (AI).
 
